@@ -3,3 +3,9 @@ You simply creates the underlying files for git to be able to run in this folder
 
 - How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area gives you the power to choose which files to commit, none of the above does that. It offers the ability to create commits which makes sense and which are more logical and just commiting everything.
+
+- How can you use the staging area to make sure you have one commit per logical change?
+You can decide which files to add to make commits which are logical. It is also possible to use git diff when in staging area to see the difference between the staging area and the working directory, or use git diff --staged to see the difference between staged and last commit. 
+
+- What are some situations when branches would be helpful in keeping your history orginazed? How would branches help?
+When you want to try a new route, branching lets you work that path without risking all the work in the main branch, which makes it alot less risky. Branches can help by reducing risk and making the easier to organize.
