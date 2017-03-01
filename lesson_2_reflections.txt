@@ -9,3 +9,8 @@ You can decide which files to add to make commits which are logical. It is also 
 
 - What are some situations when branches would be helpful in keeping your history orginazed? How would branches help?
 When you want to try a new route, branching lets you work that path without risking all the work in the main branch, which makes it alot less risky. Branches can help by reducing risk and making the easier to organize.
+
+- How do the diagrams help you visualize the branch structure?
+They help me see which branches are visible and also how many branches there are and how big they are. This can help me understand how the project is going and when to merge or delete branches. Or create branches.
+
+
