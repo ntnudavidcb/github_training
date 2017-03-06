@@ -13,4 +13,8 @@ When you want to try a new route, branching lets you work that path without risk
 - How do the diagrams help you visualize the branch structure?
 They help me see which branches are visible and also how many branches there are and how big they are. This can help me understand how the project is going and when to merge or delete branches. Or create branches.
 
+- What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result is that changes from both the files are added, but conflicts has to be fixed. We represent it like both merging together and having two paths away from the new master because that is how the new master is connected.
 
+- What are the pros and cons of Git's automatic mergin vs always doing merges manually?
+Pros is easier use and less time reading two codes again. Downside is introducing bugs into the code altough there shouldnt have been any.
